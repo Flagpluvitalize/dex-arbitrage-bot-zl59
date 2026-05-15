@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with instant dex arbitrage bot Module | rug-pull-detection + auto-compounding, the #1 dex arbitrage bot. Includes rug-pull-detection and auto-compounding for
 
 
 
